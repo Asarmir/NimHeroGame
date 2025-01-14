@@ -1,0 +1,29 @@
+[
+        {
+            "name": "Golem",
+            "symbol": "G",
+            "hp": 1000,
+            "maxhp": 1000,
+            "atk": 100,
+            "def": 100,
+            "agi": 75
+        },
+        {
+            "name": "Zombie",
+            "symbol": "Z",
+            "hp": 100,
+            "maxhp": 100,
+            "atk": 75,
+            "def": 75,
+            "agi": 25
+        },
+        {
+            "name": "Skeleton",
+            "symbol": "S",
+            "hp": 50,
+            "maxhp": 50,
+            "atk": 25,
+            "def": 25,
+            "agi": 5
+        }
+]

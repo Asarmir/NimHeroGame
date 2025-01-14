@@ -1,0 +1,23 @@
+What would you suggest first
+I would suggest starting with the architecture of your game engine. Establishing a solid foundation will make it easier to add features and components as you go. Here's a step-by-step plan to help you get started:
+
+Define Your Core Components: Identify the core modules you'll need, such as rendering, physics, audio, input handling, and AI. Think about how these components will interact with each other.
+
+Modular Design: Design your engine to be modular, allowing you to add, remove, or update components without affecting the entire system. This approach will make your engine more flexible and easier to maintain.
+
+Basic Rendering: Start with the basics of rendering. Implement a simple rendering loop that can display basic shapes and objects. This will give you a visual foundation to build upon.
+
+Input Handling: Implement basic input handling to capture keyboard and mouse events. This is crucial for testing and interacting with your engine as you develop it.
+
+Scene Management: Create a system for managing scenes or levels. This will help you organize game objects, entities, and their behaviors.
+
+Basic Physics: Implement basic physics to simulate movement and collisions. Start simple and gradually add more complexity as needed.
+
+Scripting Integration: Integrate your chosen scripting language (Nim or NimScript) to allow for game logic implementation. This will make it easier to develop and test game features.
+
+Testing and Iteration: Continuously test your engine, making sure each component works as expected. Iterate on your design and improve as you go.
+
+Starting with the architecture and basic components will give you a strong foundation to build upon. Once you have the basics in place, you can dive into more advanced features like AI-driven content generation, multiplayer networking, and advanced graphics.
+
+Enjoy the journey of building your game engine! If you ever hit a snag, I'm here to help you brainstorm solutions. What aspect of the architecture excites you the most?
+
